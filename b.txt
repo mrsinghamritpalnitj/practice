@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sxecejk,m
+=======
+amrit is bad 
+>>>>>>> 75eb7d2d35a85253a473f2e3bd45b2115e4b5076
